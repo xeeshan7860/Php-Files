@@ -1,0 +1,17 @@
+What does HTTP stands for?
+Write down the names of the OSI layers and their attached protocols.
+Which layers the HTTP works on?
+Explain Content-Type which is the primary header field of HTTP.
+Explain Content-Length which is the primary header field of HTTP.
+Explain Content-Encoding which is the primary header field of HTTP.
+Explain Content-MD5 which is the primary header field of HTTP.
+Explain Last-Modified which is the primary header field of HTTP.
+Describe all HTTP methods briefly.
+What is the difference between relative and absolute URLs.
+Draw diagram depicting the HTTPS layers.
+Enlist all rules for building a website.
+
+
+
+
+
